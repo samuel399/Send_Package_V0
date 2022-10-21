@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <Winsock2.h>
 
 int main (void)
 {
